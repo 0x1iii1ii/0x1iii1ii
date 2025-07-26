@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Based in Cambodia. I'm an electronic and embedded engineer, C is cool but C++ is cooler, just trying to explore and share my stuff here with everyone ;)
+Based in Cambodia. I'm an electronic and embedded software engineer, just trying to explore and share my stuff here with everyone ;)
 
 <!--
 **0x1iii1ii/0x1iii1ii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -30,8 +30,5 @@ Here are some ideas to get you started:
 <img align="left" alt="kicad" width="65px" src="https://upload.wikimedia.org/wikipedia/commons/5/59/KiCad-Logo.svg" style="padding-right:10px;" />
 
 <br />
-<br />
 
 ---
-
-icon by: icons8
